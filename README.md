@@ -10,4 +10,4 @@
        
        console.log(arr[i]+" ")
        
-    }
+ }
